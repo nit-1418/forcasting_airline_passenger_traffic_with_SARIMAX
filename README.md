@@ -30,6 +30,3 @@ An additional dataset, `promotion.csv`, is used as an exogenous variable to inco
 ## Results
 The model provides forecasts of monthly airline passenger traffic, highlighting trends and the effects of external variables such as promotions.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
